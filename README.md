@@ -1,3 +1,5 @@
-# Implementacja równoległej eliminacji Gaussa korzystająca z rdzeni CUDA w GPU
+# An implementation of parallel Gaussian elimination using CUDA cores in the GPU
 
-Projekt stowrzony na potrzeby kursu Teoria Współbieżności AGH w roku 2023 na kierunku Informatyka, w Pythonie z wykorzystaniem biblioteki numba. 
+A project created for the AGH UST Concurrency Theory course in 2023, in Python using the numba library.
+
+
